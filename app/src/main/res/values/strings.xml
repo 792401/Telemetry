@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DirtRally2TLM</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="rpmLabel">RPM</string>
+    <string name="gearLabel">GEAR</string>
+    <string name="rpm">00</string>
+    <string name="gear">N</string>
+    <string name="DashboardTitle">Dashboard</string>
+    <string name="distance_of">0 of 0</string>
+    <string name="distance_label">DISTANCE</string>
+</resources>
