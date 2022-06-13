@@ -1,4 +1,4 @@
-# DirtRally2-Telemetry
+Telemetry
 
 Android application to display real time telemetry data from Dirt Rally 2.0
 This is a POC. New features to be added
